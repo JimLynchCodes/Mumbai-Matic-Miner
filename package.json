@@ -1,0 +1,23 @@
+{
+  "name": "Mumbai-Matic-Miner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimLynchCodes/Mumbai-Matic-Miner.git"
+  },
+  "keywords": [],
+  "author": "JimLynchCodes <jim.lynch@evaluates2.com> (https://evaluates2.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JimLynchCodes/Mumbai-Matic-Miner/issues"
+  },
+  "homepage": "https://github.com/JimLynchCodes/Mumbai-Matic-Miner#readme",
+  "devDependencies": {
+    "cypress": "^9.1.0"
+  }
+}
